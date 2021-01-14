@@ -1,0 +1,27 @@
+.one{
+    width: 80px;
+    height: 90px;
+}
+.card-text{
+    font-size: smaller;
+}
+.col-md-7{
+    padding-left: 5%;
+    padding-top: 8%;
+}
+.card-img-top {
+    width: 100%;
+    height: 30vw;
+    object-fit:scale-down;
+}
+.buy-card{
+    border: 0;
+}
+.buy-card-footer{
+    background-color: white;
+    border: 0;
+}
+.buy-slide .carousel-item{
+    background-color: rgb(250, 219, 207);
+    border-radius: 0.50em;
+}
